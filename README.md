@@ -1,8 +1,5 @@
-Certainly! Below is a template for a README file for your Git repository:
 
----
-
-# Client-Server Chat System
+### Client-Server Chat System
 
 ## Overview
 
