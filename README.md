@@ -26,7 +26,8 @@ This project implements a client-server chat system in Python using TCP sockets.
 2. Navigate to the project directory:
 
    ```bash
-   cd client-server-chat
+   cd Client-Server-Chat-System
+
    ```
 
 3. Run the server:
