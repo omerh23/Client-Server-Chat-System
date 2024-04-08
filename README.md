@@ -1,4 +1,3 @@
-Sure, here's the README content formatted as code:
 
 ```markdown
 # Client-Server Chat System
