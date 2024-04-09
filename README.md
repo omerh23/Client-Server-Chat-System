@@ -59,19 +59,9 @@ This project implements a client-server chat system in Python using TCP sockets.
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- This project was inspired by [insert inspiration here].
-- Special thanks to [insert names] for their contributions and feedback.
 
 ## Contact
 
 For any inquiries or feedback, please contact omerhalfon1234@gmail.com
 
----
 
-Feel free to customize the README according to your project's specific details, such as additional features, dependencies, usage instructions, and acknowledgments.
